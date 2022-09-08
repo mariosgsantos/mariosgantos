@@ -1,0 +1,26 @@
+.cor{
+ 
+  background:green;
+ 
+ 
+}
+
+.input {
+  height:20px;
+  width: 165px;
+  background:yellow;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  margin-left: 120px;
+  
+  padding: 2px;
+}
+
+
+.nav {
+ font-size:12px;
+ heigth:50px;
+ width:165px;
+ color: white;
+ margin-left:135px;
+ 
